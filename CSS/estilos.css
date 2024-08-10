@@ -1,0 +1,60 @@
+body{
+    background-image: url(/FormularioTuristas/Imagenes/FondoA.jpeg);
+    background-size: cover;
+    background-attachment: fixed
+}
+
+h1{
+    color: cornsilk;
+    font-family: sans-serif;
+    text-align: center
+}
+
+h2{
+    color:bisque;
+    font-family: sans-serif;
+    text-align: center
+}
+
+h3{
+    color:deeppink;
+    font-family: sans-serif;
+    text-align: center
+}
+
+p{
+    font-family: sans-serif;
+    text-align: justify;
+    color: rgb(249, 252, 245)
+}
+
+div{
+    background-color: rgba(227, 236, 245, 0.377);
+    margin: 0 28% 0 28%
+}
+
+.FondoEnlaces{
+    background-color: rgba(227, 236, 245, 0.76);
+    margin: 0 30% 0 30%;
+    text-align: center
+}
+
+form{
+    background-color: rgba(248, 252, 255, 0.281);
+    text-align: center;
+    margin: 0 10% 0 10%
+}
+
+input{
+    text-align: center;
+    font-family: sans-serif;
+    padding: 18px 8px 18px 8px;
+    width: 50%
+}
+
+.EnviarForm{
+    text-align: center;
+    font-family: sans-serif;
+    padding: 12px 4px 12px 4px;
+    width: 30%
+}
